@@ -22,6 +22,3 @@ pr_df = pr_timelines.df
 print(pr_df)
 # fc = dsd + relativedelta(months=dp)
 # print(fc)
-
-name = input('Your Name?')
-print(name)

@@ -1,8 +1,5 @@
 """Module providing a function printing python version."""
 
-import math
-import os
-
 import pandas as pd
 import requests
 
