@@ -57,9 +57,7 @@ class ProjectTimelines:
         # function calculaing the ..."""
         tpscod = 1
 
-        df[
-            "fc",
-        ] = fc
+        df["fc"] = fc
         df["cod"] = cod
         df["dd"] = dd
         df["mefy"] = mefy
